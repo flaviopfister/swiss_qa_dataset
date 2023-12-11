@@ -1,0 +1,34 @@
+alle Files mit und vor antworten_20231112_155348.csv nutzten die falsche ID und werden manuell korrigiert!
+Dabei handelt es sich um folgende Einträge:
+
+391,Zeig mir d Autobiographie vom Hemingway.,Zentralschweiz
+387,Wo in Frankriich wird Sekt hergstellt?,Zentralschweiz
+160,Het d Neuuflag vo Battlestar Galactica meh Epsiode als die alt Serie?,Zentralschweiz
+258,Wie vill Theorie het de Albert Einstein gha?,Zentralschweiz
+3,Welli Persone sind in Herakolin gebore worde?,Zentralschweiz
+127,Wie vill Fluglinie ghöred zur Starr Alliance?,Zentralschweiz
+121,Welle Dichter het die meiste Büecher gschribe?,Zentralschweiz
+164,List alli Bandleader wo Trompete spilled auf.,Zentralschweiz
+97,Lisste alli Unternehme wo in der Werbig tätig sind uf.,Zentralschweiz
+5,Wer isch de Bürgermeister von New York City?,Zentralschweiz
+
+124,I welle Film het de Clint Eastwood Regie gfüehrt und mitgspilt?,Zentralschweiz
+
+251,Wie heisst de lengsti Fluss vo de Welt?,Zentralschweiz
+
+116,Welli Flugline ghöred zur SkyTeam-Allianz?,Zentralschweiz
+
+364,I wellere Britische Stadt isch s Hauptquartier vom MI6?,Zentralschweiz
+406,I wellne Länder redet d Mensche Japanisch?,Zentralschweiz
+340,Welles Gebüüde het nachem Burj Khalifa die meiste Stockwerk?,Zentralschweiz
+287,Wie gross isch d Claudia Schiffer?,Zentralschweiz
+394,List alle kanadische Grunge Plattelabel uf.,Zentralschweiz
+335,Wer hets Buech die süüle vo de Welt gschribe?,Zentralschweiz
+236,was isch s letze Werk vom Dan Brown?,Zentralschweiz
+60,Wie vill Ihwohner het Maribor?,Zentralschweiz
+338,Het Breaking Bad meh Episode als Game of Thrones?,Zentralschweiz
+
+
+### KORREKTUREN ###
+--> IDs wurden manuell im File "merged_CH_de_Fragen_2.csv" korrigiert
+--> IDs wurden manuell im File "merged_CH_de_Fragen_en-GB.csv" korrigiert
