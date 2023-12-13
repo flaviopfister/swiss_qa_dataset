@@ -73,7 +73,7 @@ if __name__ == "__main__":
     if 'timestamp' not in st.session_state:
         st.session_state.timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    st.header("Für eine sinnvolle Übersetzung, wähle bitte zuerst deinen Dialekt aus.")
+    st.header("Bitte wähle zuerst deinen Dialekt aus.")
     # Formular für die Auswahl des Dialekts
     form_key = "dialekt_form"
     if 'dialekt' not in st.session_state:
